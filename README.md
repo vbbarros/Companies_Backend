@@ -7,7 +7,7 @@
 
 ### DEVELOPMENT
 
-- Databse:
+- Database:
     Suba um banco postgres com as configurações do arquivo config/database.js   
     Execute:
     1. yarn sequelize db:migrate (create tables)
